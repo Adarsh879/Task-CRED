@@ -1,0 +1,1 @@
+This is a Spring Boot application designed for managing tasks. It provides Create, Read, Edit, and Delete (CRED) functionality for tasks. 
